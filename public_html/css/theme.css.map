@@ -1,0 +1,18 @@
+{
+	"version": 3,
+	"file": "theme.css",
+	"sources": [
+		"../scss/theme.scss",
+		"../scss/partials/_base.scss",
+		"../scss/partials/_header.scss",
+		"../scss/partials/_home-section.scss",
+		"../scss/partials/_about-section.scss",
+		"../scss/partials/_service-section.scss",
+		"../scss/partials/_comment-section.scss",
+		"../scss/partials/_course-section.scss",
+		"../scss/partials/_contact-section.scss",
+		"../scss/partials/_footer.scss"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,GAAG,CAAA;EACC,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;EACtB,kBAAkB,EAAE,UAAU;EAC9B,eAAe,EAAE,UAAU;EAC3B,aAAa,EAAE,UAAU;CAC5B;;AAED,AAAA,CAAC,CAAA;EACG,eAAe,EAAE,IAAI;CACxB;;AAED,AAAA,IAAI,CAAA;EACA,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,UAAU,CAAA;EACN,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,MAAM;CACpB;;ACvBD,AAAA,MAAM,CAAA;EACF,OAAO,EAAE,MAAM;CAClB;;ACFD;;;EAGE;AACF;;;EAGE;ACPF;;;EAGE;AACF;;;EAGE;ACPF;;;EAGE;AACF;;;EAGE;ACPF;;;EAGE;AACF;;;EAGE;ACPF;;;EAGE;AACF;;;EAGE;ACPF;;;EAGE;AACF;;;EAGE;ACPF;;;EAGE;AACF;;;EAGE"
+}
