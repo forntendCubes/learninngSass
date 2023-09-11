@@ -10,8 +10,6 @@ footer{
         list-style: none;
         padding-left: 0;
         padding-bottom: 30px;
-
-        li{
             a{
                 display: block;
                 padding: 5px 0;
@@ -25,8 +23,7 @@ footer{
                     &.active{
                     color: $footer-link-hover;
                 }
-            }//a end               
-        } //li end            
+            }//a end                        
     }//ul end
     
     .copyright{
@@ -42,7 +39,7 @@ footer{
             display: flex;
             justify-content: center;
             align-items: center;
-            li a{
+            a{
                 padding: 5px 20px;
             } //a end
         }//ul end
