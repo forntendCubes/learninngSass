@@ -14,3 +14,4 @@ $cyan: #09e0b1;
 $light-gray : #eeeeee;
 $dark-grey: #444444;
 
+$enable-radius: true;  //boolean, mozemo promeniti u false da bi se izvrsio else iskaz. @if($enable-radius){}@else{}
